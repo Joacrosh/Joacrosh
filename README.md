@@ -1,6 +1,6 @@
 # Perfil / Sobre mí
 
-Estudiante avanzado de Analista Programador Universitario con sólida base académica en desarrollo de software y un fuerte enfoque autodidacta en ciberseguridad, redes y scripting avanzado. 
+Estudiante avanzado de Analista Programador Universitario con base académica en desarrollo de software y un fuerte enfoque autodidacta en ciberseguridad, redes y scripting avanzado. 
 
 Interesado en la construcción de software robusto, la comprensión de los sistemas a bajo nivel y el análisis de vulnerabilidades.
 
